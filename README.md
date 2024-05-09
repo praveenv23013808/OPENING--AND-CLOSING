@@ -11,8 +11,8 @@ To implement Opening and Closing using Python and OpenCV.
 - Step4: Similarly, perform closing operation and display the result
 ## Program:
 ```
-NAME: Santhosh U
-REG.No:212222240092
+NAME: Praveen.V
+REG.No:212222233004
 ``` 
 # Import the necessary packages
 ```python
